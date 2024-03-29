@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tsang blog</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Tsang blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 29 Mar 2024 15:17:03 +0800</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Fri, 29 Mar 2024 15:17:03 +0800</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>Introduction 此站建设中&amp;hellip;&#xA;This blog is under construction&amp;hellip;&#xA;在 draft 属性为 true 的情况下改动动容，看页面是否更新。&#xA;已验证修改有效，将 draft 属性改为 false 。</description>
+    </item>
+  </channel>
+</rss>
