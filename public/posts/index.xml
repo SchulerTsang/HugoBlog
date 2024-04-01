@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Tsang blog</title>
-    <link>https://example.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Tsang blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 29 Mar 2024 15:17:03 +0800</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Mar 2024 13:21:57 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EveryQuotes</title>
+      <link>http://localhost:1313/posts/everyquotes/</link>
+      <pubDate>Sun, 31 Mar 2024 13:21:57 +0800</pubDate>
+      <guid>http://localhost:1313/posts/everyquotes/</guid>
+      <description>Init date: 2024/03/31&#xA;“But man is not made for defeat,&amp;quot; he said. &amp;ldquo;A man can be destroyed but not defeated.”&#xA;― Ernest Hemingway, The Old Man and the Sea&#xA;Update date: 2024/04/01&#xA;“The brick walls are there for a reason. The brick walls are not there to keep us out. The brick walls are there to give us a chance to show how badly we want something. Because the brick walls are there to stop the people who don’t want it badly enough.</description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Fri, 29 Mar 2024 15:17:03 +0800</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>Introduction 此站建设中&amp;hellip;&#xA;This blog is under construction&amp;hellip;&#xA;在 draft 属性为 true 的情况下改动动容，看页面是否更新。&#xA;已验证修改有效，将 draft 属性改为 false 。</description>
     </item>
   </channel>
