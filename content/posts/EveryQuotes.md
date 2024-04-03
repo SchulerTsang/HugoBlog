@@ -21,3 +21,8 @@ Update date: 2024/04/02
 > **"The unexamined life is not worth living."**
 > 
 > ―Socrates
+
+Update date: 2024/04/03
+
+> **“You never fail until you stop trying.”**  
+> ― Albert Einstein
