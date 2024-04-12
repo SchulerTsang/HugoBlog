@@ -26,3 +26,9 @@ Update date: 2024/04/03
 
 > **“You never fail until you stop trying.”**  
 > ― Albert Einstein
+
+Update date: 2024/04/12
+
+> **"Don't sit down and wait for the opportunities to come. Get up and make them."**   
+> 
+> — [Madam C.J. Walker](https://nmaahc.si.edu/explore/stories/annie-malone-and-madam-cj-walker-pioneers-african-american-beauty-industry)
