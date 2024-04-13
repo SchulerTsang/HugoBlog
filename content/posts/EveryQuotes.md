@@ -32,3 +32,8 @@ Update date: 2024/04/12
 > **"Don't sit down and wait for the opportunities to come. Get up and make them."**   
 > 
 > — [Madam C.J. Walker](https://nmaahc.si.edu/explore/stories/annie-malone-and-madam-cj-walker-pioneers-african-american-beauty-industry)
+
+Update date: 2024/04/13  
+
+> **"Live as if you were to die tomorrow. Learn as if you were to live forever."**
+> ― Mahatma Gandhi
