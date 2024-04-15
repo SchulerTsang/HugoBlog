@@ -43,3 +43,9 @@ Update date: 2024/04/14
 > **"Do only what only you can do"**
 > 
 > ― Edsger W. Dijkstra
+
+Update date: 2024/04/15
+
+> **"It is during our darkest moments that we must focus to see the light."**   
+> 
+> — [Aristotle](https://www.goodreads.com/quotes/103862-it-is-during-our-darkest-moments-that-we-must-focus)
