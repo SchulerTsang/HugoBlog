@@ -49,3 +49,8 @@ Update date: 2024/04/15
 > **"It is during our darkest moments that we must focus to see the light."**   
 > 
 > — [Aristotle](https://www.goodreads.com/quotes/103862-it-is-during-our-darkest-moments-that-we-must-focus)
+
+Update date: 2024/04/16
+
+> **"Life is not easy for any of us. But what of that? We must have perseverance and, above all, confidence in ourselves. We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained."**  
+> — Marie Curie
