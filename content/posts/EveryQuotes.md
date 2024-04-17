@@ -54,3 +54,8 @@ Update date: 2024/04/16
 
 > **"Life is not easy for any of us. But what of that? We must have perseverance and, above all, confidence in ourselves. We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained."**  
 > — Marie Curie
+
+Update date: 2024/04/17
+
+> **"It always seems impossible until it's done."**  
+> — [Nelson Mandela](https://www.britannica.com/list/nelson-mandela-quotes#:~:text=%E2%80%9CIt%20always%20seems%20impossible%20until,freedom%20to%20make%20it%20will.%E2%80%9D)
