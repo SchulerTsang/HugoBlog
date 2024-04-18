@@ -35,7 +35,7 @@ Update date: 2024/04/12
 
 Update date: 2024/04/13  
 
-> **"Live as if you were to die tomorrow. Learn as if you were to live forever."**
+> **"Live as if you were to die tomorrow. Learn as if you were to live forever."**  
 > ― Mahatma Gandhi  
 
 Update date: 2024/04/14  
@@ -59,3 +59,10 @@ Update date: 2024/04/17
 
 > **"It always seems impossible until it's done."**  
 > — [Nelson Mandela](https://www.britannica.com/list/nelson-mandela-quotes#:~:text=%E2%80%9CIt%20always%20seems%20impossible%20until,freedom%20to%20make%20it%20will.%E2%80%9D)
+
+Update date: 2024/04/18
+
+> **"Success is not final, failure is not fatal: it is the courage to continue that counts."**    
+> 
+> 
+> —**[Winston Churchill](https://parade.com/1034871/marynliles/winston-churchill-quotes/)**
