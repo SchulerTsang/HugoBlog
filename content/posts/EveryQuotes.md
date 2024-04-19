@@ -64,5 +64,10 @@ Update date: 2024/04/18
 
 > **"Success is not final, failure is not fatal: it is the courage to continue that counts."**    
 > 
-> 
 > —**[Winston Churchill](https://parade.com/1034871/marynliles/winston-churchill-quotes/)**
+
+Update date: 2024/04/19
+
+> **"Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."**
+> 
+> —Albert Einstein
