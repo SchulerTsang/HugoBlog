@@ -71,3 +71,9 @@ Update date: 2024/04/19
 > **"Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."**
 > 
 > —Albert Einstein
+
+Update date: 2024/04/22
+
+> **"Wisdom is knowing what to do next. Skill is knowing how to do it. Virtue is doing it."**
+> 
+> —Thomas Jefferson
