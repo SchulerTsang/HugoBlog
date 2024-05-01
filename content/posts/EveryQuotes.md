@@ -77,3 +77,9 @@ Update date: 2024/04/22
 > **"Wisdom is knowing what to do next. Skill is knowing how to do it. Virtue is doing it."**
 > 
 > —Thomas Jefferson
+
+Update date: 2024/05/01
+
+> **"Be the change that you wish to see in the world."**
+> 
+> —Mahatma Gandhi
